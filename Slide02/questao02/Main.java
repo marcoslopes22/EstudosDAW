@@ -30,11 +30,11 @@ public class Main {
 
             if (a == b){
                 c = a + b;
-                System.out.println("os valores são iguais, portanto, a + b: " + c);
+                System.out.println("Os valores são iguais, portanto, A + B: " + c);
             }
             else if (a != b ){
                 c = a * b;
-                System.out.println("os valores sao diferentes, portanto, a * b: " + c);
+                System.out.println("Os valores são diferentes, portanto, A * B: " + c);
             }
         }
     }    
